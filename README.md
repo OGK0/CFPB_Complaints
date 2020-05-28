@@ -1,2 +1,5 @@
 # CFPB_Complaints
-Text Classification for Consumer Complaints in the CFPB Database
+
+This repository contains my Natural Language Processing (NLP) work for customer complaints from the CFPB database.
+
+I've included a Jupyter notebook that performs text classification on the complaints using Tensorflow/Keras, and hope to publish version that does this using Pytorch soon.
